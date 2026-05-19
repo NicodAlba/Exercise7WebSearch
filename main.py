@@ -38,6 +38,7 @@ def process_reviews_with_pos(reviews_list):
 
 download_nltk_data()
 
+#review from Fu Asia Restaurant in Linz
 data_path = "reviews.csv"
 my_reviews = load_corpus(data_path)
 
